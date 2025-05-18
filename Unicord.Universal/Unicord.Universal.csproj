@@ -10,7 +10,7 @@
     <RootNamespace>Unicord.Universal</RootNamespace>
     <AssemblyName>Unicord.Universal</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <TargetFramework>net472</TargetFramework>
+    <TargetFramework>net451</TargetFramework>
     <Nullable>enable</Nullable>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.22621.0</TargetPlatformVersion>
