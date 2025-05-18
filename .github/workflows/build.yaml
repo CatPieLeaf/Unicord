@@ -33,7 +33,6 @@ jobs:
         submodules: recursive
         fetch-depth: 0
 
-    steps:
       - name: Setup .NET SDK
       uses: actions/setup-dotnet@v3
       with:
